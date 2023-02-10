@@ -24,7 +24,7 @@ pco.copy_files_to_repo("my_repo", "my_repo2")
 
 Repositories are saved between python sessions using a config file. The default file is:
 ```
-~/.config/precommit_organizer/precommit_organizer.toml`
+~/.config/precommit_organizer/precommit_organizer.toml
 ```
 
 ## Assumed directory structure
