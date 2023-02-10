@@ -31,4 +31,5 @@ when copying files, the following files will be copied if found:
 * `.pre-commit-config.yaml`
 * `tests/lint_requirements.txt`
 
+any config within general files is ignored (`pyproject.toml`, `setup.cfg`, etc.)
 
